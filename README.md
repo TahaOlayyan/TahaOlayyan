@@ -1,12 +1,31 @@
-- 🔥 Hi, I’m @TahaOlayyan
-- 🔭 I’m interested in Programming && Artificial Intelligence ...
-- 🌱 I’m currently learning Java && C++ ...
-- 🤝 I’m looking to collaborate on open-source AI projects ...
-- 📫 How to reach me: [Taha_olayan@hotmail.com] or Linkedin [Taha Olayyan]
-- 😁 Pronouns: he/him
-- ⚡ Fun fact: I love solving Rubik's cubes in my free time!
+# 👋 Hello! I'm Taha Olayyan
 
-<!---
-TahaOlayyan/TahaOlayyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 A **Computer Science student** at **Al-Zaytoonah University of Jordan**  
+💻 Passionate about software development, web technologies, and system engineering
+
+---
+
+## 🚀 My Skills:
+- 📱 Languages: **C, C++, Java, JavaScript**
+- 🌐 Web: **HTML, CSS,  JavaScript**
+- 🗄️ Databases: **MySQL**
+- 🛠️ Tools: **Git, GitHub, VS Code**
+
+---
+
+## 📊 My GitHub Stats:
+
+![TahaOlayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=merko)
+
+---
+
+## 📌 Featured Projects:
+
+## 📫 Contact Me:
+- 📧 Email : taha_olayan@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/TahaOlayyan)
+- 📱 [WhatsApp](https://wa.me/962797950659)
+
+---
+
+> 💙 Thanks for visiting my profile! Don’t forget to ⭐️ the projects you like!
