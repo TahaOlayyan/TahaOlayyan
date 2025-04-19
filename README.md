@@ -22,7 +22,7 @@
 ## 📌 Featured Projects:
 
 ## 📫 Contact Me:
-- 📧 Email : taha_olayan@hotmail.com
+- 📧 **Email :** taha_olayan@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/TahaOlayyan)
 - 📱 [WhatsApp](https://wa.me/962797950659)
 
