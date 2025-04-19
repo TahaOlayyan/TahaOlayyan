@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 My Skills:
-- 📱 Languages: **C, C++, Java, JavaScript**
+- 📱 Languages: **C++, Java, JavaScript**
 - 🌐 Web: **HTML, CSS,  JavaScript**
 - 🗄️ Databases: **MySQL**
 - 🛠️ Tools: **Git, GitHub, VS Code**
