@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Taha Olayyan
 
-🎓 A **Computer Science student** at **Al-Zaytoonah University of Jordan**  
+🎓 A **Computer Science undergrad** at **Al-Zaytoonah University of Jordan**  
 💻 Passionate about software development, web technologies, and system engineering
 
 ---
