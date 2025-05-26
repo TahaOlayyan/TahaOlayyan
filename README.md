@@ -15,7 +15,7 @@
 
 ## 📊 My GitHub Stats:
 
-![TahaOlayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=tokyonight)
+![TahaOlayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=cobalt2)
 
 ---
 
