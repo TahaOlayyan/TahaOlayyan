@@ -15,8 +15,8 @@
 ## 📊 My GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark&count_private=true" alt="Taha Olayyan Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark" alt="Taha Olayyan Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
