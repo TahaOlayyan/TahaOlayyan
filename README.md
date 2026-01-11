@@ -9,24 +9,10 @@ I focus on building clean, structured, and practical solutions that strengthen m
 
 ## 🚀 Skills
 
-### 💻 Programming Languages
-- C++
-- Java
-- JavaScript
-
-### 🌐 Web Development
-- HTML
-- CSS
-- React.js
-
-### 🗄️ Databases
-- MySQL
-- Oracle PL/SQL
-
-### 🛠️ Tools
-- Git
-- GitHub
-- VS Code
+- **Languages:** C++, Java, JavaScript  
+- **Web:** HTML, CSS, React.js  
+- **Databases:** MySQL, Oracle PL/SQL  
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
