@@ -15,8 +15,9 @@
 
 ## 📊 My GitHub Stats:
 
-![TahaOlayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=holi)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark&count_private=true" alt="Taha Olayyan Stats" />
+</p>
 ---
 
 ## 📌 Featured Projects:
