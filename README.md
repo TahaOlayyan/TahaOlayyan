@@ -1,40 +1,73 @@
 # 👋 Hello! I'm Taha Olayyan
 
-🎓 A **Computer Science undergrad** at **Al-Zaytoonah University of Jordan** 💻 Passionate about software development, web technologies, and system engineering.
+🎓 Computer Science undergraduate at **Al-Zaytoonah University of Jordan**  
+💻 Interested in software development, web technologies, and database systems.
+
+I focus on building clean, structured, and practical solutions that strengthen my fundamentals and reflect real academic experience.
 
 ---
 
-## 🚀 My Skills:
-- 📱 **Languages:** C++, Java, JavaScript
-- 🌐 **Web:** HTML, CSS, React.js
-- 🗄️ **Databases:** MySQL, Oracle PL/SQL
-- 🛠️ **Tools:** Git, GitHub, VS Code
+## 🚀 Skills
+
+### 💻 Programming Languages
+- C++
+- Java
+- JavaScript
+
+### 🌐 Web Development
+- HTML
+- CSS
+- React.js
+
+### 🗄️ Databases
+- MySQL
+- Oracle PL/SQL
+
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📊 My GitHub Stats:
+## 📊 GitHub Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark" alt="Taha Olayyan Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📌 Featured Projects:
-
-### 🗄️ [Student Enrollment System (Oracle PL/SQL)](https://github.com/TahaOlayyan)
-A robust database management system built with **Oracle PL/SQL** to handle student enrollments, course management, and automated grade processing using Stored Procedures and Packages.
+- 🚀 Actively working on academic and personal projects  
+- 💡 Strong foundation in problem-solving and object-oriented programming  
+- 🌐 Building web applications using modern frontend tools  
+- 🗄️ Experience designing and managing relational database systems  
+- 🛠️ Using Git & GitHub for version control and collaboration  
 
 ---
 
-## 📫 Contact Me:
-- 📧 **Email:** taha_olayan@hotmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/TahaOlayyan)
-- 📱 [WhatsApp](https://wa.me/962797950659)
+## 🧩 Project Experience
+
+- Developed multiple academic and personal projects as part of Computer Science coursework  
+- Built database-driven systems using **Oracle PL/SQL** (procedures, packages, triggers)  
+- Implemented object-oriented concepts in **C++ and Java**  
+- Created web-based applications using **HTML, CSS, JavaScript, and React.js**  
+- Focused on clean code, logical structure, and maintainable solutions  
+
+---
+
+## 🎯 Goals
+
+- Strengthen software engineering fundamentals  
+- Gain deeper backend and database experience  
+- Build scalable and well-structured systems  
+- Prepare for internships and professional opportunities  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: taha_olayan@hotmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/TahaOlayyan  
+- 📱 WhatsApp: https://wa.me/962797950659  
 
 ---
 
 <p align="center">
-  💙 Thanks for visiting my profile! Don’t forget to ⭐️ the projects you like!
+  Thanks for visiting my profile ⭐  
+  Feel free to explore my repositories and connect with me!
 </p>
