@@ -12,13 +12,13 @@
 
 ---
 
-## 📊 My GitHub Stats:
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
+- 🚀 Consistently working on university & personal projects  
+- 💡 Strong foundation in **C++, Java, JavaScript**  
+- 🌐 Building web apps using **React.js**  
+- 🗄️ Experienced with **Oracle PL/SQL** & relational databases  
+- 🛠️ Using **Git & GitHub** for version control and teamwork
 
 ---
 
