@@ -9,7 +9,7 @@ I focus on building clean, structured, and practical solutions that strengthen m
 
 ## 🚀 Skills
 
-- **Languages:** C++, Java, JavaScript  
+- **Languages:** C++, Java, JavaScript,php
 - **Web:** HTML, CSS, React.js  
 - **Databases:** MySQL, Oracle PL/SQL  
 - **Tools:** Git, GitHub, VS Code
