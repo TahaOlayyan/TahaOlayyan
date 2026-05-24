@@ -22,8 +22,15 @@ I focus on building clean, structured, and practical solutions that strengthen m
 - 💡 Strong foundation in problem-solving and object-oriented programming  
 - 🌐 Building web applications using modern frontend tools  
 - 🗄️ Experience designing and managing relational database systems  
-- 🛠️ Using Git & GitHub for version control and collaboration  
+- 🛠️ Using Git & GitHub for version control and collaboration
+  
+## 📊 My GitHub Dashboard
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Taha's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark&hide_border=true" alt="Taha's Top Languages" />
+</div>
 ---
 
 ## 🧩 Project Experience
