@@ -1,3 +1,10 @@
+## 📊 My GitHub Dashboard
+
+<div align="center">
+
+![Taha's GitHub Streak](https://streak-stats.demolab.com/?user=TahaOlayyan&theme=dark&hide_border=true)
+
+</div>
 # 👋 Hello! I'm Taha Olayyan
 
 🎓 Computer Science undergraduate at **Al-Zaytoonah University of Jordan**  
