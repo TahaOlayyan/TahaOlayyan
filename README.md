@@ -1,10 +1,3 @@
-## 📊 My GitHub Dashboard
-
-<div align="center">
-
-![Taha's GitHub Streak](https://streak-stats.demolab.com/?user=TahaOlayyan&theme=dark&hide_border=true)
-
-</div>
 # 👋 Hello! I'm Taha Olayyan
 
 🎓 Computer Science undergraduate at **Al-Zaytoonah University of Jordan**  
@@ -22,6 +15,15 @@ I focus on building clean, structured, and practical solutions that strengthen m
 - **Tools:** Git, GitHub, VS Code
 
 ---
+## 📊 My GitHub Dashboard
+
+<div align="center">
+
+![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Taha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark&hide_border=true)
+
+</div> 
 
 ## 📊 GitHub Overview
 
@@ -31,15 +33,7 @@ I focus on building clean, structured, and practical solutions that strengthen m
 - 🗄️ Experience designing and managing relational database systems  
 - 🛠️ Using Git & GitHub for version control and collaboration
   
-## 📊 My GitHub Dashboard
 
-<div align="center">
-
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Taha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ## 🧩 Project Experience
 
