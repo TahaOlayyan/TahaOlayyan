@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Taha Olayyan
 
-🎓 Computer Science undergraduate at **Al-Zaytoonah University of Jordan**  
-💻 Interested in software development, web technologies, and database systems.
+🎓 Computer Science undergraduate at **Al-Zaytoonah University of Jordan** 💻 Interested in software development, web technologies, and database systems.
 
 I focus on building clean, structured, and practical solutions that strengthen my fundamentals and reflect real academic experience.
 
@@ -9,12 +8,13 @@ I focus on building clean, structured, and practical solutions that strengthen m
 
 ## 🚀 Skills
 
-- **Languages:** C++, Java, JavaScript, php
+- **Languages:** C++, Java, JavaScript, PHP
 - **Web:** HTML, CSS, React.js  
 - **Databases:** MySQL, Oracle PL/SQL  
 - **Tools:** Git, GitHub, VS Code
 
 ---
+
 ## 📊 My GitHub Dashboard
 
 <div align="center">
@@ -25,23 +25,21 @@ I focus on building clean, structured, and practical solutions that strengthen m
 
 </div> 
 
-## 📊 GitHub Overview
+## 💡 GitHub Overview
 
 - 🚀 Actively working on academic and personal projects  
-- 💡 Strong foundation in problem-solving and object-oriented programming  
+- 🧠 Strong foundation in problem-solving and object-oriented programming  
 - 🌐 Building web applications using modern frontend tools  
 - 🗄️ Experience designing and managing relational database systems  
 - 🛠️ Using Git & GitHub for version control and collaboration
   
-
-
 ## 🧩 Project Experience
 
-- Developed multiple academic and personal projects as part of Computer Science coursework  
-- Built database-driven systems using **Oracle PL/SQL** (procedures, packages, triggers)  
-- Implemented object-oriented concepts in **C++ and Java**  
-- Created web-based applications using **HTML, CSS, JavaScript, and React.js**  
-- Focused on clean code, logical structure, and maintainable solutions  
+- 🛒 **Mini E-Commerce Admin Panel:** Built a database-driven CRUD application using **PHP, MySQL, and Bootstrap 5**.
+- 📊 **Database Systems:** Built systems using **Oracle PL/SQL** (procedures, packages, triggers).
+- 🧩 **Core Programming:** Implemented object-oriented concepts in **C++ and Java**.
+- 💻 **Frontend Web:** Created web-based applications using **HTML, CSS, JavaScript, and React.js**.
+- ✨ Focused on clean code, logical structure, and maintainable solutions.
 
 ---
 
@@ -56,9 +54,9 @@ I focus on building clean, structured, and practical solutions that strengthen m
 
 ## 📫 Contact Me
 
-- 📧 Email: taha_olayan@hotmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/TahaOlayyan  
-- 📱 WhatsApp: https://wa.me/962797950659  
+- 📧 Email: [taha_olayan@hotmail.com](mailto:taha_olayan@hotmail.com)  
+- 💼 LinkedIn: [in/TahaOlayyan](https://www.linkedin.com/in/TahaOlayyan)  
+- 📱 WhatsApp: [Chat with me](https://wa.me/962797950659)  
 
 ---
 
