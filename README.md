@@ -15,16 +15,6 @@ I focus on building clean, structured, and practical solutions that strengthen m
 
 ---
 
-## 📊 My GitHub Dashboard
-
-<div align="center">
-
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaOlayyan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Taha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaOlayyan&layout=compact&theme=dark&hide_border=true)
-
-</div> 
-
 ## 💡 GitHub Overview
 
 - 🚀 Actively working on academic and personal projects  
